@@ -11,6 +11,9 @@
 *.wav
 *.mp3
 
+## ONNX Model weights & Voice binaries (Run download_assets.ps1 to download)
+assets/
+
 ## Logs and OS files
 *.log
 .DS_Store
