@@ -1,0 +1,17 @@
+## .NET Build Artifacts
+**/bin/
+**/obj/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Audio test outputs
+*.wav
+*.mp3
+
+## Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
